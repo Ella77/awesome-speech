@@ -4,8 +4,6 @@ curated paper, notes, codes storage for speech recognition,speech synthesis, sig
 
 
 
-# 한국어 음성인식 
-http://speech.cbnu.ac.kr/srhome/technology/korean_recog.html
 
 
 # Challenge for accuracy 
@@ -30,4 +28,8 @@ https://arxiv.org/pdf/1904.08779v3.pdf
 
 # Kaldi recipe 
 kaldi asr recipes with languages examples https://github.com/kaldi-asr/kaldi/tree/master/egs
+
 korean recipe (zeroth) https://github.com/kaldi-asr/kaldi/tree/master/egs/zeroth_korean/s5
+
+# 한국어 preprocess
+http://speech.cbnu.ac.kr/srhome/technology/korean_recog.html
